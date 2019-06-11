@@ -50,11 +50,12 @@ table {
     width: 100%;
     background-color: white;
     overflow: auto;
+    height: 98px;
 
 }
 .ul1{
     padding: 0px;
-    margin: 2 0 0 34.5%;
+    margin: 2 0 0 29.8%;
     list-style: none;
 
 }
@@ -64,7 +65,7 @@ table {
 .logo img{
     position: absolute;
     margin-top: 20px;
-    margin-left: 24.6%;
+    margin-left: 16.8%;
 }
 .menu1 a{
     width: relative max-content 50px;
@@ -72,25 +73,25 @@ table {
     display: inline-block;
     padding: 38px 15px;
     text-decoration: none;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: #808080;
-    font-size: 17px;
+    font-size: 14px;
    
 }
 .menu1 a:hover{
     background-color: #f2f2f2;
     transition:0.5s;
-    margin-bottom: #660000 10px;
+    margin-bottom: 5px solid #660000;
 
 }
 .btn{
-    font-family: Arial, Helvetica, sans-serif;
-    font-size:14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:11.5px;
     color: white;
     border: none;
     cursor: pointer;
     position: absolute;
-    margin-left: 56px;
+    margin-left: 6%;
     margin-top: 30px;
     background-image: linear-gradient(to top,#660000,#800000,#990000);
     border-radius: 5px;
