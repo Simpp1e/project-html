@@ -99,3 +99,21 @@ table {
     height: 25px;
     text-align: center;
 }
+.bcimg1{
+    background-repeat: no-repeat;
+    background-image: url(vestibulinho-bg.jpg);
+    width: 1448px;
+    height:310px;
+    
+}
+.menu2{
+    width: 100%;
+    background-color: #660000;
+    overflow: auto;
+    height: 120px;
+}
+.ul2{
+    list-style: none;
+    margin: 2 0 0 29.8%;
+
+}
